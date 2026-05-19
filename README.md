@@ -36,4 +36,4 @@ Quero iniciar minha carreira como Desenvolvedor Júnior, aprendendo com equipes 
 
 - Email: almenaradulcino@gmail.com
 - GitHub: https://github.com/almenaradulcino-ai
-- LinkedIn: (adicione seu link aqui)
+- LinkedIn: https://www.linkedin.com/in/dulcino-almenara-584a84168/
