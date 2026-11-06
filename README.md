@@ -1,39 +1,37 @@
-# Dulcino Almenara
+# Dulcino Almenara 👋
 
-Desenvolvedor em formação | Front-end e Python | Buscando vaga como Desenvolvedor Júnior
+**Desenvolvedor em Formação | Web & Python | Buscando Oportunidade como Dev Júnior**
 
-## Olá 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulcino-almenara-584a84168/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almenaradulcino@gmail.com)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo projetos práticos em HTML, CSS, JavaScript e Python. Meu objetivo é crescer profissionalmente trabalhando com desenvolvimento web e entregar soluções visuais e funcionais.
+---
 
-## O que eu faço
+## 📌 Sobre Mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e venho construindo aplicações práticas com **HTML5, CSS3, JavaScript e Python**. Tenho como objetivo integrar equipes de tecnologia onde possa aplicar código limpo, criar interfaces funcionais e evoluir como Desenvolvedor Web Júnior.
 
-- Crio layouts responsivos e modernos com HTML e CSS
-- Desenvolvo interações com JavaScript puro
-- Organizo o código usando Git e GitHub
-- Busco sempre interfaces claras, acessíveis e bem estruturadas
+---
 
-## Projetos em destaque
+## 🛠️ Habilidades Técnicas
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- **Site** — Portfólio pessoal com banner, navegação interna e formulário de contato
-  - `https://github.com/almenaradulcino-ai/Site`
-- **TaskMaster** — Gerenciador de tarefas simples feito com HTML, CSS e JavaScript
-  - `https://github.com/almenaradulcino-ai/TaskMaster`
-- **apuracao-eleicao** — Projeto de apuração de votos com interface web
-  - `https://github.com/almenaradulcino-ai/apuracao-eleicao`
+---
 
-## Tecnologias
+## 🚀 Projetos em Destaque
 
-- HTML5 / CSS3 / JavaScript
-- Python
-- Git / GitHub
+* **[TaskMaster](https://github.com/almenaradulcino-ai/TaskMaster)** — Gerenciador de tarefas interativo desenvolvido em JavaScript puro (DOM, LocalStorage) com integração de API de câmbio em tempo real.
+* **[apuracao-eleicao](https://github.com/almenaradulcino-ai/apuracao-eleicao)** — Interface web para acompanhamento e apuração visual de votos.
+* **[Site / Portfólio](https://github.com/almenaradulcino-ai/Site)** — Meu site de apresentação pessoal com layout responsivo e formulário de contato.
+* **[sistema-bancario-python](https://github.com/almenaradulcino-ai/sistema-bancario-python)** — Aplicação backend em Python simulando operações de depósitos, saques e extratos bancários.
 
-## Meu objetivo
+---
 
-Quero iniciar minha carreira como Desenvolvedor Júnior, aprendendo com equipes que valorizem boas práticas, código limpo e desenvolvimento consistente.
-
-## Contato
-
-- Email: almenaradulcino@gmail.com
-- GitHub: https://github.com/almenaradulcino-ai
-- LinkedIn: https://www.linkedin.com/in/dulcino-almenara-584a84168/
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=almenaradulcino-ai&show_icons=true&theme=radial&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almenaradulcino-ai&layout=compact&theme=radial" height="150"/>
+</div>
